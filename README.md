@@ -37,9 +37,9 @@ npm run dev
 
 ## Documentation
 
-- [Quest Quickstart](QUEST_QUICKSTART.md)
-- [Quest System Guide](QUEST_SYSTEM_GUIDE.md)
-- [Quest Architecture](QUEST_ARCHITECTURE.md)
-- [Quest System Summary](QUEST_SYSTEM_SUMMARY.md)
-- [Storage](STORAGE.md)
-- [Scalability](SCALABILITY.md)
+- [Quest Quickstart](docs/QUEST_QUICKSTART.md)
+- [Quest System Guide](docs/QUEST_SYSTEM_GUIDE.md)
+- [Quest Architecture](docs/QUEST_ARCHITECTURE.md)
+- [Quest System Summary](docs/QUEST_SYSTEM_SUMMARY.md)
+- [Storage](docs/STORAGE.md)
+- [Scalability](docs/SCALABILITY.md)
