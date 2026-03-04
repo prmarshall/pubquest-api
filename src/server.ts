@@ -4,7 +4,7 @@ import app from "@/app";
 import pool, { testDbConnection } from "@/db/pool"; // <--- Updated Import
 import dotenv from "dotenv";
 
-dotenv.config();
+dotenv.config({ path: ".env.local" });
 
 const PORT = process.env.PORT || 3000;
 
